@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "4.Организация тестирования"
 
-![CI](https://github.com/unker/ahj-homeworks-testing/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/marusinaann/ajs-test/actions/workflows/web.yml/badge.svg)
 
 Правила сдачи задания:
 
