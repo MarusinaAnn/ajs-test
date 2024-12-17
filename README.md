@@ -2,6 +2,8 @@
 
 ![CI](https://github.com/marusinaann/ajs-test/actions/workflows/web.yml/badge.svg)
 
+https://marusinaann.github.io/ajs-test/
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ можно использовать любой менеджер пакетов
